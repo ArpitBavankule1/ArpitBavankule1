@@ -45,12 +45,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArpitBavankule1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitBavankule1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArpitBavankule1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArpitBavankule1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitBavankule1&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ArpitBavankule1&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitBavankule1&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitBavankule1&theme=tokyo-night&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
