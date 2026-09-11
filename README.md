@@ -28,47 +28,10 @@
 - 🌱 Currently learning **Web Development, Python, and Data Structures & Algorithms**
 - 🔭 Working on turning my class projects into real, polished apps
 - 👯 Looking to collaborate on **beginner-friendly open source projects**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: arpitbavankule03@gmail.com
 - 🌐 Portfolio: [arpitbavankule.site](https://arpitbavankule.site)
 - ⚡ Fun fact: I learn best by breaking things and then fixing them
 
 ---
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,mysql,mongodb,git,github,vscode,figma,linux" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArpitBavankule1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArpitBavankule1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ArpitBavankule1&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArpitBavankule1&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitBavankule1&theme=tokyo-night&hide_border=true&cache_seconds=86400" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArpitBavankule1&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
-</p>
 
 <p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repos and connect!</i></p>
