@@ -1,37 +1,133 @@
-<h1 align="center">Hi there, I'm Arpit Bavankule 👋</h1>
+# Hi, I'm Arpit Bavankule 👋
 
-<h3 align="center">🎓 Student | 💻 Learning to Code | 🚀 Building things one commit at a time</h3>
+### Data Science & Analytics Enthusiast | Developer
+
+I'm a BCA graduate passionate about **Data Science, Data Analytics, Web Development, and Problem Solving**. I enjoy building practical projects and continuously learning new technologies.
+
+- 🎓 BCA Graduate
+- 📊 Exploring **Data Science & Data Analytics**
+- 💻 Web Development
+- 🚀 Building real-world projects
+- 🤝 Open to collaboration and learning opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Data Science & Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🧰 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 DCPE ERP
+
+A college ERP platform designed to simplify academic and administrative workflows.
+
+🔗 **Live Project:** [dcpe-erp.vercel.app](https://dcpe-erp.vercel.app/)
+
+---
+
+### 🗳️ Automated Paperless Transparent College System
+
+A college management system designed to digitize college processes, including:
+
+- 🗳️ Student Elections
+- 🔐 Secure Voting
+- 📊 Live Election Results
+- 🏥 Health Notifications
+- 📝 Leave Management
+
+**Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL
+
+---
+
+## 📚 Currently Learning
+
+- 🐍 Python for Data Science
+- 📊 Data Analytics
+- 🗄️ Advanced SQL
+- 📈 Data Visualization
+- 🤖 Machine Learning
+- ⚛️ React.js
+- 🧠 Data Structures & Algorithms
+
+---
+
+## 🎯 Career Interests
+
+I'm interested in opportunities related to:
+
+**Data Analytics • Data Science • Software Development • Full-Stack Development**
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Currently+learning+Web+Dev+%2B+DSA;Exploring+Python+%26+AI-ML;Open+to+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArpitBavankule1&show_icons=true&theme=tokyonight" alt="Arpit's GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://arpitbavankule.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitBavankule1&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arpitbavankule03">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/arpitbavankule03" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/ArpitBavankule1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/ArpitBavankule1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### ⚡ Fun Fact
 
-- 🌱 Currently learning **Web Development, Python, and Data Structures & Algorithms**
-- 🔭 Working on turning my class projects into real, polished apps
-- 👯 Looking to collaborate on **beginner-friendly open source projects**
-- 📫 Reach me at: arpitbavankule03@gmail.com
-- 🌐 Portfolio: [arpitbavankule.site](https://arpitbavankule.site)
-- ⚡ Fun fact: I learn best by breaking things and then fixing them
+> I believe the best way to learn technology is to **build something with it.** 🚀
 
----
-
-<p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repos and connect!</i></p>
+⭐ Feel free to explore my repositories and connect with me!
