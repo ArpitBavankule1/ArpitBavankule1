@@ -75,10 +75,10 @@ A college management system designed to digitize college processes.
 
 <p align="center">
   <a href="https://github.com/ArpitBavankule1">
-    <img height="180" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArpitBavankule1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+    <img height="180" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArpitBavankule1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/ArpitBavankule1">
-    <img height="180" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArpitBavankule1&layout=compact&theme=tokyonight&hide_border=true"/>
+    <img height="180" alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArpitBavankule1&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
