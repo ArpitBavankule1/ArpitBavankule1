@@ -1,133 +1,139 @@
-# Hi, I'm Arpit Bavankule 👋
+# ⚡ ARPIT BAVANKULE
 
-### Data Science & Analytics Enthusiast | Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=DATA+SCIENCE+%26+ANALYTICS+ENTHUSIAST;PYTHON+%7C+SQL+%7C+PANDAS;FULL-STACK+WEB+DEVELOPER;TURNING+DATA+INTO+INSIGHTS;BUILDING+PROJECTS+EVERY+DAY" alt="Typing animation"/>
+</p>
 
-I'm a BCA graduate passionate about **Data Science, Data Analytics, Web Development, and Problem Solving**. I enjoy building practical projects and continuously learning new technologies.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArpitBavankule1&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/ArpitBavankule1?style=for-the-badge&color=8B5CF6&logo=github&label=FOLLOWERS"/>
+</p>
+
+---
+
+## 👨‍💻 ABOUT ME
+
+I'm **Arpit Bavankule**, a BCA graduate interested in Data Science, Data Analytics, Web Development and Problem Solving.
+
+I enjoy building practical, real-world projects and learning new technologies by using them.
 
 - 🎓 BCA Graduate
-- 📊 Exploring **Data Science & Data Analytics**
-- 💻 Web Development
-- 🚀 Building real-world projects
+- 📊 Data Science and Data Analytics
+- 🐍 Python, NumPy and Pandas
+- 🗄️ SQL and database management
+- 🌐 Frontend and backend development
+- 🚀 Building practical projects and learning every day
 - 🤝 Open to collaboration and learning opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp&theme=dark"/>
+</p>
 
-### 🌐 Frontend Development
+### Data Science & Analytics
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter&theme=dark"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-### ⚙️ Backend Development
+### Web Development & Tools
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📊 Data Science & Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🧰 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,nodejs,php,mysql,git,github,vscode,figma,vercel&theme=dark"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 FEATURED PROJECTS
 
 ### 🎓 DCPE ERP
 
 A college ERP platform designed to simplify academic and administrative workflows.
 
-🔗 **Live Project:** [dcpe-erp.vercel.app](https://dcpe-erp.vercel.app/)
-
----
+🔗 [View Live Project](https://dcpe-erp.vercel.app/)
 
 ### 🗳️ Automated Paperless Transparent College System
 
-A college management system designed to digitize college processes, including:
+A college management system designed to digitize college processes.
 
-- 🗳️ Student Elections
-- 🔐 Secure Voting
-- 📊 Live Election Results
-- 🏥 Health Notifications
-- 📝 Leave Management
+- Student elections and secure voting
+- Live election results
+- Health notifications
+- Leave management
 
-**Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL
-
----
-
-## 📚 Currently Learning
-
-- 🐍 Python for Data Science
-- 📊 Data Analytics
-- 🗄️ Advanced SQL
-- 📈 Data Visualization
-- 🤖 Machine Learning
-- ⚛️ React.js
-- 🧠 Data Structures & Algorithms
+**Technologies:** HTML, CSS, JavaScript, PHP, MySQL
 
 ---
 
-## 🎯 Career Interests
+## 📊 MY GITHUB STATS
 
-I'm interested in opportunities related to:
+<p align="center">
+  <a href="https://github.com/ArpitBavankule1">
+    <img height="180" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArpitBavankule1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/ArpitBavankule1">
+    <img height="180" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArpitBavankule1&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ArpitBavankule1&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArpitBavankule1/ArpitBavankule1/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 🎯 MY DEVELOPER QUEST
+
+| Skill | Status |
+|---|---|
+| Python for Data Science | Learning |
+| Data Analytics | Learning |
+| Advanced SQL | Learning |
+| Data Visualization | Learning |
+| Machine Learning | Next milestone |
+| React.js | Learning |
+| Data Structures & Algorithms | Learning |
+| Web Development (HTML, CSS, JS, PHP, MySQL) | Project built |
+
+---
+
+## 🎯 CAREER INTERESTS
 
 **Data Analytics • Data Science • Software Development • Full-Stack Development**
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 CONNECT WITH ME
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpitBavankule1&show_icons=true&theme=tokyonight" alt="Arpit's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitBavankule1&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/arpitbavankule03">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://github.com/ArpitBavankule1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arpitbavankule03">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:5145CD,100:9B72FF&height=130&section=footer"/>
+</p>
 
-### ⚡ Fun Fact
+<h3 align="center">⚡ LEARN. BUILD. ANALYZE. IMPROVE. REPEAT.</h3>
 
-> I believe the best way to learn technology is to **build something with it.** 🚀
-
-⭐ Feel free to explore my repositories and connect with me!
+<p align="center">Thanks for visiting my profile! ⭐</p>
