@@ -22,6 +22,7 @@ I enjoy building practical, real-world projects and learning new technologies by
 - 🐍 Python, NumPy and Pandas
 - 🗄️ SQL and database management
 - 🌐 Frontend and backend development
+- 💼 120-hour Web Development Internship at Ujwal Academy
 - 🚀 Building practical projects and learning every day
 - 🤝 Open to collaboration and learning opportunities
 
@@ -50,6 +51,19 @@ I enjoy building practical, real-world projects and learning new technologies by
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,nodejs,php,mysql,git,github,vscode,figma,vercel&theme=dark"/>
 </p>
+
+---
+
+## 💼 EXPERIENCE
+
+### Web Developer Intern — Ujwal Academy, Amravati
+
+`JAN 2026 – APR 2026` | `120 HOURS`
+
+- Developed responsive website pages.
+- Worked on frontend components and functionality.
+- Tested and debugged website components.
+- Collaborated with the development team.
 
 ---
 
@@ -123,7 +137,7 @@ A college management system designed to digitize college processes.
 | Machine Learning | Next milestone |
 | React.js | Learning |
 | Data Structures & Algorithms | Learning |
-| Web Development (HTML, CSS, JS, PHP, MySQL) | Project built |
+| Web Development (HTML, CSS, JS, PHP, MySQL) | Internship completed |
 
 ---
 
