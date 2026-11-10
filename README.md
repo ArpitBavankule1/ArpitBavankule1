@@ -40,6 +40,9 @@ I enjoy building practical, real-world projects and learning new technologies by
 <p>
   <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter&theme=dark"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ### Web Development & Tools
@@ -51,6 +54,15 @@ I enjoy building practical, real-world projects and learning new technologies by
 ---
 
 ## 🚀 FEATURED PROJECTS
+
+### 📊 Credit Card Customer Analytics Dashboard
+
+**Python | Pandas | Tableau**
+
+- Cleaned and prepared a 5,000-row dataset.
+- Explored customer patterns and financial metrics.
+- Created five analytical sheets.
+- Developed an interactive Tableau dashboard.
 
 ### 🎓 DCPE ERP
 
@@ -84,7 +96,7 @@ A college management system designed to digitize college processes.
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ArpitBavankule1&theme=tokyonight&hide_border=true"/>
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ArpitBavankule1&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata"/>
   </a>
 </p>
 
@@ -106,6 +118,8 @@ A college management system designed to digitize college processes.
 | Data Analytics | Learning |
 | Advanced SQL | Learning |
 | Data Visualization | Learning |
+| Tableau | Project built |
+| Power BI | Building |
 | Machine Learning | Next milestone |
 | React.js | Learning |
 | Data Structures & Algorithms | Learning |
