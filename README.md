@@ -11,157 +11,165 @@
 
 ---
 
-## 👨‍💻 ABOUT ME
+## 👨‍💻 About Me
 
-I'm **Arpit Bavankule**, a BCA graduate interested in Data Science, Data Analytics, Web Development and Problem Solving.
+Hi! I'm **Arpit Bavankule**, a BCA graduate passionate about Data Science, Data Analytics, Python, SQL, and Web Development.
 
-I enjoy building practical, real-world projects and learning new technologies by using them.
+I enjoy working with data, developing applications, solving problems, and transforming ideas into practical real-world solutions.
 
 - 🎓 BCA Graduate
-- 📊 Data Science and Data Analytics
-- 🐍 Python, NumPy and Pandas
-- 🗄️ SQL and database management
-- 🌐 Frontend and backend development
-- 💼 120-hour Web Development Internship at Ujwal Academy
-- 🚀 Building practical projects and learning every day
+- 📊 Interested in Data Science & Data Analytics
+- 🐍 Working with Python, NumPy & Pandas
+- 🗄️ Learning SQL & Database Management
+- 📈 Data Visualization using Tableau & Power BI
+- 🌐 Interested in Full-Stack Web Development
+- 💼 Completed a 120-hour Web Development Internship at Ujwal Academy, Amravati
+- 🚀 Building practical projects and learning new technologies
 - 🤝 Open to collaboration and learning opportunities
 
 ---
 
-## 🛠️ TECH STACK
+## 🛠️ Tech Stack
 
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,php&theme=dark" />
 </p>
 
 ### Data Science & Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter&theme=dark"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter&theme=dark" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-### Web Development & Tools
+### Web Development & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,nodejs,php,mysql,git,github,vscode,figma,vercel&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,nodejs,php,mysql&theme=dark" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" />
 </p>
 
 ---
 
-## 💼 EXPERIENCE
+## 💼 Experience
 
 ### Web Developer Intern — Ujwal Academy, Amravati
-
 `JAN 2026 – APR 2026` | `120 HOURS`
 
 - Developed responsive website pages.
 - Worked on frontend components and functionality.
 - Tested and debugged website components.
 - Collaborated with the development team.
+- Gained practical experience in web development.
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🚀 Featured Projects
 
 ### 📊 Credit Card Customer Analytics Dashboard
+**Technologies:** Python | Pandas | Tableau
 
-**Python | Pandas | Tableau**
-
-- Cleaned and prepared a 5,000-row dataset.
+- Cleaned and prepared a dataset containing 5,000 rows.
 - Explored customer patterns and financial metrics.
 - Created five analytical sheets.
 - Developed an interactive Tableau dashboard.
+- Presented insights through data visualization.
 
 ### 🎓 DCPE ERP
-
 A college ERP platform designed to simplify academic and administrative workflows.
+
+- Simplifies college-related processes.
+- Provides a centralized platform for academic management.
 
 🔗 [View Live Project](https://dcpe-erp.vercel.app/)
 
 ### 🗳️ Automated Paperless Transparent College System
+A college management system designed to digitize college processes and improve transparency.
 
-A college management system designed to digitize college processes.
+**Key Features:**
+- Student elections and secure voting.
+- Live election results.
+- Health notifications.
+- Leave management.
 
-- Student elections and secure voting
-- Live election results
-- Health notifications
-- Leave management
-
-**Technologies:** HTML, CSS, JavaScript, PHP, MySQL
+**Technologies:** HTML | CSS | JavaScript | PHP | MySQL
 
 ---
 
-## 📊 MY GITHUB STATS
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitBavankule1&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/ArpitBavankule1">
-    <img height="180" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArpitBavankule1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+    <img height="180" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArpitBavankule1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/ArpitBavankule1">
-    <img height="180" alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArpitBavankule1&layout=compact&theme=tokyonight&hide_border=true"/>
+    <img height="180" alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArpitBavankule1&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ArpitBavankule1&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata"/>
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ArpitBavankule1&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" />
   </a>
 </p>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArpitBavankule1/ArpitBavankule1/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+  <img width="95%" src="https://raw.githubusercontent.com/ArpitBavankule1/ArpitBavankule1/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
-## 🎯 MY DEVELOPER QUEST
+## 🎯 Career Interests
 
-| Skill | Status |
-|---|---|
-| Python for Data Science | Learning |
-| Data Analytics | Learning |
-| Advanced SQL | Learning |
-| Data Visualization | Learning |
-| Tableau | Project built |
-| Power BI | Building |
-| Machine Learning | Next milestone |
-| React.js | Learning |
-| Data Structures & Algorithms | Learning |
-| Web Development (HTML, CSS, JS, PHP, MySQL) | Internship completed |
+- 📊 Data Analytics
+- 🤖 Data Science & Machine Learning
+- 📈 Business Intelligence
+- 🐍 Python Development
+- 🌐 Full-Stack Web Development
+- 🗄️ Database Management
 
 ---
 
-## 🎯 CAREER INTERESTS
-
-**Data Analytics • Data Science • Software Development • Full-Stack Development**
-
----
-
-## 🤝 CONNECT WITH ME
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/ArpitBavankule1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/arpitbavankule03">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:5145CD,100:9B72FF&height=130&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:5145CD,100:9B72FF&height=130&section=footer" width="100%"/>
 </p>
 
 <h3 align="center">⚡ LEARN. BUILD. ANALYZE. IMPROVE. REPEAT.</h3>
-
-<p align="center">Thanks for visiting my profile! ⭐</p>
+<p align="center">⭐ Thanks for visiting my profile! Let's connect and build something amazing.</p>
